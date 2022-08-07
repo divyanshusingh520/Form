@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color:  #f3f2ef;
+  margin-top: 50px;
+  height: 500px;
+  margin-left: 300px;
+  margin-right: 300px;
+  
 }
 
 .App-logo {
@@ -35,4 +41,127 @@
   to {
     transform: rotate(360deg);
   }
+}
+.date{
+  display: flex;
+  margin: 20px;
+}
+.date input{
+  margin-left: 275px;
+}
+.main{
+  display: flex;
+  margin-left: 20px;
+  
+}
+.amount{
+  display: flex;
+  margin-left: 20px;
+  
+}
+.main{
+  display: flex;
+  margin-left: 20px;
+  
+}
+.main{
+  display: flex;
+  margin-left: 20px;
+  
+}
+.main{
+  display: flex;
+  margin-left: 20px;
+  
+}
+.main{
+  display: flex;
+  margin-left: 20px;
+  
+}
+.amount input{
+  /* height: 300px; */
+  width: 500px;
+  margin-left: 250px;
+  
+}
+.remark{
+  display: flex;
+  margin-left: 20px;
+  
+}
+select{
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 200px;
+}
+.inner{
+  font-weight: bold;
+  font-size: large;
+}
+.money{
+  display: flex;
+  margin: 20px;
+}
+.remark input{
+  margin-left: 253px;
+  width: 500px;
+  height: 40px;
+}
+.head{
+  display: flex;
+  justify-content: center;
+  
+  
+  
+  
+}
+.column{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  justify-content: space-around;
+  height: 30px;
+  
+
+}
+.columnd{
+  display: flex;
+  justify-content: center;
+  margin-top: 140px;
+  justify-content: space-around;
+  height: 30px;
+  background-color: burlywood;
+  font-weight: bold;
+}
+ 
+.head .headinner{
+  /* background-color: #61dafb; */
+  height: 50px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+  border: 1px solid red;
+  color: red;
+}
+.head .headouter{
+  background-color: rgb(159, 219, 159);
+  height: 50px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+  margin-left: 100px;
+
+}
+.box1{
+  font-weight: bold;
+  font-size: larger;
+}
+.box2{
+  font-weight: bold;
+  font-size: larger;
 }
